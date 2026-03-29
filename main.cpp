@@ -11,7 +11,7 @@ int main() {
 
     my_namespace::Leaver l;
     std::string name{ "" };
-    std::cout << "Ââåäèòå èìÿ: ";
+    std::cout << "Ğ’Ğ²ĞµĞ´Ğ¸Ñ‚Ğµ Ğ¸Ğ¼Ñ: ";
     std::cin >> name;
     std::cout << l.leave(name);
     return 0;
